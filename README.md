@@ -1,8 +1,6 @@
-# chignolin input files for molecular dynamics simulation.
+# alanine-tripeptide input files for molecular dynamics simulation.
 
 Repository for teaching beginners what is molecular dynamics simulation
-
-Let's find the native structure (1uao.pdb, beta-sheet-like) of chignolin starting from an alpha-helix-like structure. 
 
 ## Jupyter notebook
 
